@@ -135,6 +135,7 @@ header{
           font-weight: 700;
           margin-bottom:8px;
           color:#49277f;
+          // text-decoration: underline;
         }
         .user-name{
           display: flex;
@@ -244,6 +245,15 @@ section{
       border:2px solid #49277f;
       border-radius: 10px;
       background-color: white;
+      text-align: center;
+      .task{
+        border-bottom: 2px solid black;
+        padding:5px 0;
+        h2{
+          font-size: 25px;
+          color:#333;
+        }
+      }
     }
     .btn{
       width:95%;
