@@ -226,7 +226,7 @@ header{
 }
 section{
   width:100%; 
-  height:calc(73% - 1px);
+  height:calc(73% - 2px);
   min-height:600px;
   display: flex;
   position: relative;
@@ -284,5 +284,6 @@ footer{
   min-height:100px;
   background-color: #ccc;
   min-width: 1550px;
+  border-top:1px solid #333;
 }
 
