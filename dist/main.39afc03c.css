@@ -108,9 +108,6 @@ header .inner nav ul li #underline {
 header .inner nav ul li #underline::after, header .inner nav ul li #underline::before {
   width: 50%;
 }
-header .inner nav ul li:first-child {
-  padding-left: 10px;
-}
 header .inner nav ul li:last-child {
   padding-right: 10px;
 }
