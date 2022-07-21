@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.js"],"names":["element","document","getElementById","alert","offsetHeight"],"mappings":"AAAA,IAAIA,OAAO,GAAGC,QAAQ,CAACC,cAAT,CAAwB,MAAxB,CAAd;AACAC,KAAK,CAACH,OAAO,CAACI,YAAT,CAAL","file":"main.1f19ae8e.js","sourceRoot":"..","sourcesContent":["var element = document.getElementById('body');\r\nalert(element.offsetHeight);"]}
+{"version":3,"sources":[],"names":[],"mappings":"","file":"main.1f19ae8e.js","sourceRoot":"..","sourcesContent":[]}
