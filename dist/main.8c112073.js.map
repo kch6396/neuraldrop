@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["element","document","getElementById","alert","offsetHeight"],"mappings":";AAAA,IAAIA,EAAUC,SAASC,eAAe,QACtCC,MAAMH,EAAQI","file":"main.8c112073.js","sourceRoot":"..","sourcesContent":["var element = document.getElementById('body');\r\nalert(element.offsetHeight);"]}
