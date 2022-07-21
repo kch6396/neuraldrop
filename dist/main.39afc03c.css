@@ -114,14 +114,14 @@ header .inner nav ul li:last-child {
 
 section {
   width: 100%;
-  height: calc(76% - 1px);
+  height: calc(73% - 1px);
   min-height: 600px;
   display: flex;
   position: relative;
   min-width: 1550px;
 }
 section aside {
-  width: 25%;
+  width: 20%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -150,13 +150,13 @@ section aside .btn button {
   color: #333;
 }
 section article {
-  width: 75%;
+  width: 80%;
   height: 100%;
   background-color: #ffffe0;
 }
 
 footer {
-  height: 12%;
+  height: 15%;
   min-height: 100px;
   background-color: #ccc;
   min-width: 1550px;
